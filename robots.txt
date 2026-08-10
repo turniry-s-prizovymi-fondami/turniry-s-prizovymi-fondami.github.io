@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: turniry-s-prizovymi-fondami.github.io
+Sitemap: https://turniry-s-prizovymi-fondami.github.io/sitemap.xml
